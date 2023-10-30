@@ -1,1 +1,1 @@
-Comparing GDP and Freedom Scores
+# Comparing GDP and Freedom Scores
