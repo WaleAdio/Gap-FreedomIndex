@@ -1,6 +1,7 @@
 #**Comparing GDP and Freedom Scores**
 
-##Introduction
+##**Introduction**
+
 An analysis to test the relationship between freedom index and macroeconomic indicators (GDP & GDP Per Capita) and extract valuable insights from the available data.
 
 ##Datasets
